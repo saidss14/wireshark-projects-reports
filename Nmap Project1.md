@@ -34,8 +34,8 @@ ipconfig
 ```
 
 ## Screenshot
-![IP Configuration](Images/ip config.png)
 
+![IP Configuration](<Imges/ip config.png>)
 ## Purpose
 The `ipconfig` command is used to view network configuration details of the system and identify the local IPv4 address before performing network scans.
 
