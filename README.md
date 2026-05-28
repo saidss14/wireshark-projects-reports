@@ -103,8 +103,7 @@ This project successfully analyzed real-time network traffic using Wireshark. It
 
 ---
 
-## 👨‍💻 Author
-Sai
+
 
 
 
