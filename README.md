@@ -43,5 +43,3 @@ This project helped in understanding real-world network communication and packet
 
 
 
-## 👨‍💻 Author
-Sai
